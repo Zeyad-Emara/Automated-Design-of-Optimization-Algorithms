@@ -1,0 +1,1304 @@
+Algorithm: Config_3b.txt
+Run Time: 10(s)
+Runs: 100
+Instance Name        | Instance Best Objective Value  | Instance Average Objective Value | Highest Objective Value Count 
+Run: 1
+johnson16-2-4.clq    | 548                            | 548.00                           | 1                             
+johnson32-2-4.clq    | 1956                           | 1956.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 1                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 1                             
+keller4.clq          | 1153                           | 1153.00                          | 1                             
+keller5.clq          | 3317                           | 3317.00                          | 1                             
+keller6.clq          | 7098                           | 7098.00                          | 1                             
+MANN_a27.clq         | 12252                          | 12252.00                         | 1                             
+MANN_a45.clq         | 34147                          | 34147.00                         | 1                             
+MANN_a81.clq         | 111099                         | 111099.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 1                             
+
+Run: 2
+johnson16-2-4.clq    | 548                            | 548.00                           | 2                             
+johnson32-2-4.clq    | 1956                           | 1944.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 2                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 2                             
+keller4.clq          | 1153                           | 1153.00                          | 2                             
+keller5.clq          | 3317                           | 3317.00                          | 2                             
+keller6.clq          | 7098                           | 6950.00                          | 1                             
+MANN_a27.clq         | 12252                          | 12251.00                         | 1                             
+MANN_a45.clq         | 34147                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111099                         | 111097.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 2                             
+
+Run: 3
+johnson16-2-4.clq    | 548                            | 548.00                           | 3                             
+johnson32-2-4.clq    | 1956                           | 1941.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 3                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 3                             
+keller4.clq          | 1153                           | 1153.00                          | 3                             
+keller5.clq          | 3317                           | 3317.00                          | 3                             
+keller6.clq          | 7098                           | 6877.00                          | 1                             
+MANN_a27.clq         | 12252                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34147                          | 34142.00                         | 1                             
+MANN_a81.clq         | 111099                         | 111089.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 3                             
+
+Run: 4
+johnson16-2-4.clq    | 548                            | 548.00                           | 4                             
+johnson32-2-4.clq    | 1974                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 4                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 4                             
+keller4.clq          | 1153                           | 1153.00                          | 4                             
+keller5.clq          | 3317                           | 3317.00                          | 4                             
+keller6.clq          | 7098                           | 6885.00                          | 1                             
+MANN_a27.clq         | 12252                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34147                          | 34142.00                         | 1                             
+MANN_a81.clq         | 111099                         | 111085.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 4                             
+
+Run: 5
+johnson16-2-4.clq    | 548                            | 548.00                           | 5                             
+johnson32-2-4.clq    | 1974                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 5                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 5                             
+keller4.clq          | 1153                           | 1153.00                          | 5                             
+keller5.clq          | 3317                           | 3317.00                          | 5                             
+keller6.clq          | 7098                           | 6798.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 1                             
+MANN_a45.clq         | 34147                          | 34142.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 5                             
+
+Run: 6
+johnson16-2-4.clq    | 548                            | 548.00                           | 6                             
+johnson32-2-4.clq    | 1974                           | 1950.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 6                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 6                             
+keller4.clq          | 1153                           | 1153.00                          | 6                             
+keller5.clq          | 3317                           | 3317.00                          | 6                             
+keller6.clq          | 7098                           | 6762.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 1                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 6                             
+
+Run: 7
+johnson16-2-4.clq    | 548                            | 548.00                           | 7                             
+johnson32-2-4.clq    | 1974                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 7                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 7                             
+keller4.clq          | 1153                           | 1153.00                          | 7                             
+keller5.clq          | 3317                           | 3317.00                          | 7                             
+keller6.clq          | 7098                           | 6747.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12252.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 7                             
+
+Run: 8
+johnson16-2-4.clq    | 548                            | 548.00                           | 8                             
+johnson32-2-4.clq    | 1974                           | 1951.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 8                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 8                             
+keller4.clq          | 1153                           | 1153.00                          | 8                             
+keller5.clq          | 3317                           | 3317.00                          | 8                             
+keller6.clq          | 7098                           | 6728.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111084.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 8                             
+
+Run: 9
+johnson16-2-4.clq    | 548                            | 548.00                           | 9                             
+johnson32-2-4.clq    | 1974                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 9                             
+johnson8-4-4.clq     | 511                            | 511.00                           | 9                             
+keller4.clq          | 1153                           | 1153.00                          | 9                             
+keller5.clq          | 3317                           | 3317.00                          | 9                             
+keller6.clq          | 7098                           | 6706.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 9                             
+
+Run: 10
+johnson16-2-4.clq    | 548                            | 548.00                           | 10                            
+johnson32-2-4.clq    | 1974                           | 1950.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 10                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 10                            
+keller4.clq          | 1153                           | 1153.00                          | 10                            
+keller5.clq          | 3317                           | 3317.00                          | 10                            
+keller6.clq          | 7098                           | 6700.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111101                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 10                            
+
+Run: 11
+johnson16-2-4.clq    | 548                            | 548.00                           | 11                            
+johnson32-2-4.clq    | 1991                           | 1954.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 11                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 11                            
+keller4.clq          | 1153                           | 1153.00                          | 11                            
+keller5.clq          | 3317                           | 3317.00                          | 11                            
+keller6.clq          | 7098                           | 6697.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 11                            
+
+Run: 12
+johnson16-2-4.clq    | 548                            | 548.00                           | 12                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 12                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 12                            
+keller4.clq          | 1153                           | 1153.00                          | 12                            
+keller5.clq          | 3317                           | 3317.00                          | 12                            
+keller6.clq          | 7098                           | 6697.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 12                            
+
+Run: 13
+johnson16-2-4.clq    | 548                            | 548.00                           | 13                            
+johnson32-2-4.clq    | 1991                           | 1954.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 13                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 13                            
+keller4.clq          | 1153                           | 1153.00                          | 13                            
+keller5.clq          | 3317                           | 3317.00                          | 13                            
+keller6.clq          | 7098                           | 6702.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111090.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 13                            
+
+Run: 14
+johnson16-2-4.clq    | 548                            | 548.00                           | 14                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 14                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 14                            
+keller4.clq          | 1153                           | 1153.00                          | 14                            
+keller5.clq          | 3317                           | 3317.00                          | 14                            
+keller6.clq          | 7098                           | 6696.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111091.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 14                            
+
+Run: 15
+johnson16-2-4.clq    | 548                            | 548.00                           | 15                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 15                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 15                            
+keller4.clq          | 1153                           | 1153.00                          | 15                            
+keller5.clq          | 3317                           | 3317.00                          | 15                            
+keller6.clq          | 7098                           | 6688.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111092.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 15                            
+
+Run: 16
+johnson16-2-4.clq    | 548                            | 548.00                           | 16                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 16                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 16                            
+keller4.clq          | 1153                           | 1153.00                          | 16                            
+keller5.clq          | 3317                           | 3317.00                          | 16                            
+keller6.clq          | 7098                           | 6678.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 2                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111092.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 16                            
+
+Run: 17
+johnson16-2-4.clq    | 548                            | 548.00                           | 17                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 17                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 17                            
+keller4.clq          | 1153                           | 1153.00                          | 17                            
+keller5.clq          | 3317                           | 3317.00                          | 17                            
+keller6.clq          | 7098                           | 6702.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 3                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111091.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 17                            
+
+Run: 18
+johnson16-2-4.clq    | 548                            | 548.00                           | 18                            
+johnson32-2-4.clq    | 1991                           | 1955.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 18                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 18                            
+keller4.clq          | 1153                           | 1153.00                          | 18                            
+keller5.clq          | 3317                           | 3317.00                          | 18                            
+keller6.clq          | 7098                           | 6706.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 3                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111090.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 18                            
+
+Run: 19
+johnson16-2-4.clq    | 548                            | 548.00                           | 19                            
+johnson32-2-4.clq    | 1991                           | 1954.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 19                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 19                            
+keller4.clq          | 1153                           | 1153.00                          | 19                            
+keller5.clq          | 3317                           | 3317.00                          | 19                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12252.00                         | 4                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111089.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 19                            
+
+Run: 20
+johnson16-2-4.clq    | 548                            | 548.00                           | 20                            
+johnson32-2-4.clq    | 1991                           | 1953.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 20                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 20                            
+keller4.clq          | 1153                           | 1153.00                          | 20                            
+keller5.clq          | 3317                           | 3317.00                          | 20                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34151                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111089.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 20                            
+
+Run: 21
+johnson16-2-4.clq    | 548                            | 548.00                           | 21                            
+johnson32-2-4.clq    | 1991                           | 1951.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 21                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 21                            
+keller4.clq          | 1153                           | 1153.00                          | 21                            
+keller5.clq          | 3317                           | 3317.00                          | 21                            
+keller6.clq          | 7231                           | 6730.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34151                          | 34143.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 21                            
+
+Run: 22
+johnson16-2-4.clq    | 548                            | 548.00                           | 22                            
+johnson32-2-4.clq    | 1991                           | 1951.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 22                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 22                            
+keller4.clq          | 1153                           | 1153.00                          | 22                            
+keller5.clq          | 3317                           | 3317.00                          | 22                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 22                            
+
+Run: 23
+johnson16-2-4.clq    | 548                            | 548.00                           | 23                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 23                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 23                            
+keller4.clq          | 1153                           | 1153.00                          | 23                            
+keller5.clq          | 3317                           | 3317.00                          | 23                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 23                            
+
+Run: 24
+johnson16-2-4.clq    | 548                            | 548.00                           | 24                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 24                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 24                            
+keller4.clq          | 1153                           | 1153.00                          | 24                            
+keller5.clq          | 3317                           | 3317.00                          | 24                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111088.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 24                            
+
+Run: 25
+johnson16-2-4.clq    | 548                            | 548.00                           | 25                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 25                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 25                            
+keller4.clq          | 1153                           | 1153.00                          | 25                            
+keller5.clq          | 3317                           | 3317.00                          | 25                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 4                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111087.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 25                            
+
+Run: 26
+johnson16-2-4.clq    | 548                            | 548.00                           | 26                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 26                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 26                            
+keller4.clq          | 1153                           | 1153.00                          | 26                            
+keller5.clq          | 3317                           | 3317.00                          | 26                            
+keller6.clq          | 7231                           | 6730.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12252.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111087.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 26                            
+
+Run: 27
+johnson16-2-4.clq    | 548                            | 548.00                           | 27                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 27                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 27                            
+keller4.clq          | 1153                           | 1153.00                          | 27                            
+keller5.clq          | 3317                           | 3317.00                          | 27                            
+keller6.clq          | 7231                           | 6725.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 27                            
+
+Run: 28
+johnson16-2-4.clq    | 548                            | 548.00                           | 28                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 28                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 28                            
+keller4.clq          | 1153                           | 1153.00                          | 28                            
+keller5.clq          | 3317                           | 3317.00                          | 28                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111086.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 28                            
+
+Run: 29
+johnson16-2-4.clq    | 548                            | 548.00                           | 29                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 29                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 29                            
+keller4.clq          | 1153                           | 1153.00                          | 29                            
+keller5.clq          | 3317                           | 3317.00                          | 29                            
+keller6.clq          | 7231                           | 6739.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 29                            
+
+Run: 30
+johnson16-2-4.clq    | 548                            | 548.00                           | 30                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 30                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 30                            
+keller4.clq          | 1153                           | 1153.00                          | 30                            
+keller5.clq          | 3317                           | 3317.00                          | 30                            
+keller6.clq          | 7231                           | 6739.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 30                            
+
+Run: 31
+johnson16-2-4.clq    | 548                            | 548.00                           | 31                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 31                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 31                            
+keller4.clq          | 1153                           | 1153.00                          | 31                            
+keller5.clq          | 3317                           | 3317.00                          | 31                            
+keller6.clq          | 7231                           | 6745.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 31                            
+
+Run: 32
+johnson16-2-4.clq    | 548                            | 548.00                           | 32                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 32                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 32                            
+keller4.clq          | 1153                           | 1153.00                          | 32                            
+keller5.clq          | 3317                           | 3317.00                          | 32                            
+keller6.clq          | 7231                           | 6748.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 1                             
+MANN_a9.clq          | 372                            | 372.00                           | 32                            
+
+Run: 33
+johnson16-2-4.clq    | 548                            | 548.00                           | 33                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 33                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 33                            
+keller4.clq          | 1153                           | 1153.00                          | 33                            
+keller5.clq          | 3317                           | 3317.00                          | 33                            
+keller6.clq          | 7231                           | 6750.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 33                            
+
+Run: 34
+johnson16-2-4.clq    | 548                            | 548.00                           | 34                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 34                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 34                            
+keller4.clq          | 1153                           | 1153.00                          | 34                            
+keller5.clq          | 3317                           | 3317.00                          | 34                            
+keller6.clq          | 7231                           | 6746.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 34                            
+
+Run: 35
+johnson16-2-4.clq    | 548                            | 548.00                           | 35                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 35                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 35                            
+keller4.clq          | 1153                           | 1153.00                          | 35                            
+keller5.clq          | 3317                           | 3317.00                          | 35                            
+keller6.clq          | 7231                           | 6743.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 35                            
+
+Run: 36
+johnson16-2-4.clq    | 548                            | 548.00                           | 36                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 36                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 36                            
+keller4.clq          | 1153                           | 1153.00                          | 36                            
+keller5.clq          | 3317                           | 3317.00                          | 36                            
+keller6.clq          | 7231                           | 6741.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 36                            
+
+Run: 37
+johnson16-2-4.clq    | 548                            | 548.00                           | 37                            
+johnson32-2-4.clq    | 1991                           | 1949.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 37                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 37                            
+keller4.clq          | 1153                           | 1153.00                          | 37                            
+keller5.clq          | 3317                           | 3317.00                          | 37                            
+keller6.clq          | 7231                           | 6738.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 37                            
+
+Run: 38
+johnson16-2-4.clq    | 548                            | 548.00                           | 38                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 38                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 38                            
+keller4.clq          | 1153                           | 1153.00                          | 38                            
+keller5.clq          | 3317                           | 3317.00                          | 38                            
+keller6.clq          | 7231                           | 6741.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 38                            
+
+Run: 39
+johnson16-2-4.clq    | 548                            | 548.00                           | 39                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 39                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 39                            
+keller4.clq          | 1153                           | 1153.00                          | 39                            
+keller5.clq          | 3317                           | 3317.00                          | 39                            
+keller6.clq          | 7231                           | 6740.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 2                             
+MANN_a9.clq          | 372                            | 372.00                           | 39                            
+
+Run: 40
+johnson16-2-4.clq    | 548                            | 548.00                           | 40                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 40                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 40                            
+keller4.clq          | 1153                           | 1153.00                          | 40                            
+keller5.clq          | 3317                           | 3317.00                          | 40                            
+keller6.clq          | 7231                           | 6743.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 40                            
+
+Run: 41
+johnson16-2-4.clq    | 548                            | 548.00                           | 41                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 41                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 41                            
+keller4.clq          | 1153                           | 1153.00                          | 41                            
+keller5.clq          | 3317                           | 3317.00                          | 41                            
+keller6.clq          | 7231                           | 6748.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 41                            
+
+Run: 42
+johnson16-2-4.clq    | 548                            | 548.00                           | 42                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 42                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 42                            
+keller4.clq          | 1153                           | 1153.00                          | 42                            
+keller5.clq          | 3317                           | 3317.00                          | 42                            
+keller6.clq          | 7231                           | 6743.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 42                            
+
+Run: 43
+johnson16-2-4.clq    | 548                            | 548.00                           | 43                            
+johnson32-2-4.clq    | 1991                           | 1948.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 43                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 43                            
+keller4.clq          | 1153                           | 1153.00                          | 43                            
+keller5.clq          | 3317                           | 3317.00                          | 43                            
+keller6.clq          | 7231                           | 6741.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 5                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111085.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 43                            
+
+Run: 44
+johnson16-2-4.clq    | 548                            | 548.00                           | 44                            
+johnson32-2-4.clq    | 1991                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 44                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 44                            
+keller4.clq          | 1153                           | 1153.00                          | 44                            
+keller5.clq          | 3317                           | 3317.00                          | 44                            
+keller6.clq          | 7231                           | 6744.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 6                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 44                            
+
+Run: 45
+johnson16-2-4.clq    | 548                            | 548.00                           | 45                            
+johnson32-2-4.clq    | 1991                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 45                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 45                            
+keller4.clq          | 1153                           | 1153.00                          | 45                            
+keller5.clq          | 3317                           | 3317.00                          | 45                            
+keller6.clq          | 7231                           | 6744.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 6                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 45                            
+
+Run: 46
+johnson16-2-4.clq    | 548                            | 548.00                           | 46                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 46                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 46                            
+keller4.clq          | 1153                           | 1153.00                          | 46                            
+keller5.clq          | 3317                           | 3317.00                          | 46                            
+keller6.clq          | 7231                           | 6743.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 6                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 46                            
+
+Run: 47
+johnson16-2-4.clq    | 548                            | 548.00                           | 47                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 47                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 47                            
+keller4.clq          | 1153                           | 1153.00                          | 47                            
+keller5.clq          | 3317                           | 3317.00                          | 47                            
+keller6.clq          | 7231                           | 6741.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 7                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 47                            
+
+Run: 48
+johnson16-2-4.clq    | 548                            | 548.00                           | 48                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 48                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 48                            
+keller4.clq          | 1153                           | 1153.00                          | 48                            
+keller5.clq          | 3317                           | 3317.00                          | 48                            
+keller6.clq          | 7231                           | 6743.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 7                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 48                            
+
+Run: 49
+johnson16-2-4.clq    | 548                            | 548.00                           | 49                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 49                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 49                            
+keller4.clq          | 1153                           | 1153.00                          | 49                            
+keller5.clq          | 3317                           | 3317.00                          | 49                            
+keller6.clq          | 7231                           | 6746.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 8                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111084.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 49                            
+
+Run: 50
+johnson16-2-4.clq    | 548                            | 548.00                           | 50                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 50                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 50                            
+keller4.clq          | 1153                           | 1153.00                          | 50                            
+keller5.clq          | 3317                           | 3317.00                          | 50                            
+keller6.clq          | 7231                           | 6742.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 8                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 50                            
+
+Run: 51
+johnson16-2-4.clq    | 548                            | 548.00                           | 51                            
+johnson32-2-4.clq    | 1991                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 51                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 51                            
+keller4.clq          | 1153                           | 1153.00                          | 51                            
+keller5.clq          | 3317                           | 3317.00                          | 51                            
+keller6.clq          | 7231                           | 6742.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 8                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 51                            
+
+Run: 52
+johnson16-2-4.clq    | 548                            | 548.00                           | 52                            
+johnson32-2-4.clq    | 1991                           | 1945.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 52                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 52                            
+keller4.clq          | 1153                           | 1153.00                          | 52                            
+keller5.clq          | 3317                           | 3317.00                          | 52                            
+keller6.clq          | 7231                           | 6738.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 52                            
+
+Run: 53
+johnson16-2-4.clq    | 548                            | 548.00                           | 53                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 53                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 53                            
+keller4.clq          | 1153                           | 1153.00                          | 53                            
+keller5.clq          | 3317                           | 3317.00                          | 53                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 53                            
+
+Run: 54
+johnson16-2-4.clq    | 548                            | 548.00                           | 54                            
+johnson32-2-4.clq    | 1992                           | 1945.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 54                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 54                            
+keller4.clq          | 1153                           | 1153.00                          | 54                            
+keller5.clq          | 3317                           | 3317.00                          | 54                            
+keller6.clq          | 7231                           | 6739.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 54                            
+
+Run: 55
+johnson16-2-4.clq    | 548                            | 548.00                           | 55                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 55                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 55                            
+keller4.clq          | 1153                           | 1153.00                          | 55                            
+keller5.clq          | 3317                           | 3317.00                          | 55                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 55                            
+
+Run: 56
+johnson16-2-4.clq    | 548                            | 548.00                           | 56                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 56                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 56                            
+keller4.clq          | 1153                           | 1153.00                          | 56                            
+keller5.clq          | 3317                           | 3317.00                          | 56                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 56                            
+
+Run: 57
+johnson16-2-4.clq    | 548                            | 548.00                           | 57                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 57                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 57                            
+keller4.clq          | 1153                           | 1153.00                          | 57                            
+keller5.clq          | 3317                           | 3317.00                          | 57                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 57                            
+
+Run: 58
+johnson16-2-4.clq    | 548                            | 548.00                           | 58                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 58                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 58                            
+keller4.clq          | 1153                           | 1153.00                          | 58                            
+keller5.clq          | 3317                           | 3317.00                          | 58                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 58                            
+
+Run: 59
+johnson16-2-4.clq    | 548                            | 548.00                           | 59                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 59                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 59                            
+keller4.clq          | 1153                           | 1153.00                          | 59                            
+keller5.clq          | 3317                           | 3317.00                          | 59                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 59                            
+
+Run: 60
+johnson16-2-4.clq    | 548                            | 548.00                           | 60                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 60                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 60                            
+keller4.clq          | 1153                           | 1153.00                          | 60                            
+keller5.clq          | 3317                           | 3317.00                          | 60                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34143.00                         | 2                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 60                            
+
+Run: 61
+johnson16-2-4.clq    | 548                            | 548.00                           | 61                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 61                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 61                            
+keller4.clq          | 1153                           | 1153.00                          | 61                            
+keller5.clq          | 3317                           | 3317.00                          | 61                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 61                            
+
+Run: 62
+johnson16-2-4.clq    | 548                            | 548.00                           | 62                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 62                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 62                            
+keller4.clq          | 1153                           | 1153.00                          | 62                            
+keller5.clq          | 3317                           | 3317.00                          | 62                            
+keller6.clq          | 7231                           | 6733.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 62                            
+
+Run: 63
+johnson16-2-4.clq    | 548                            | 548.00                           | 63                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 63                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 63                            
+keller4.clq          | 1153                           | 1153.00                          | 63                            
+keller5.clq          | 3317                           | 3317.00                          | 63                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 63                            
+
+Run: 64
+johnson16-2-4.clq    | 548                            | 548.00                           | 64                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 64                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 64                            
+keller4.clq          | 1153                           | 1153.00                          | 64                            
+keller5.clq          | 3317                           | 3317.00                          | 64                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 64                            
+
+Run: 65
+johnson16-2-4.clq    | 548                            | 548.00                           | 65                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 65                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 65                            
+keller4.clq          | 1153                           | 1153.00                          | 65                            
+keller5.clq          | 3317                           | 3317.00                          | 65                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34152                          | 34144.00                         | 3                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 65                            
+
+Run: 66
+johnson16-2-4.clq    | 548                            | 548.00                           | 66                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 66                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 66                            
+keller4.clq          | 1153                           | 1153.00                          | 66                            
+keller5.clq          | 3317                           | 3317.00                          | 66                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 66                            
+
+Run: 67
+johnson16-2-4.clq    | 548                            | 548.00                           | 67                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 67                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 67                            
+keller4.clq          | 1153                           | 1153.00                          | 67                            
+keller5.clq          | 3317                           | 3317.00                          | 67                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 67                            
+
+Run: 68
+johnson16-2-4.clq    | 548                            | 548.00                           | 68                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 68                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 68                            
+keller4.clq          | 1153                           | 1153.00                          | 68                            
+keller5.clq          | 3317                           | 3317.00                          | 68                            
+keller6.clq          | 7231                           | 6733.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 68                            
+
+Run: 69
+johnson16-2-4.clq    | 548                            | 548.00                           | 69                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 69                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 69                            
+keller4.clq          | 1153                           | 1153.00                          | 69                            
+keller5.clq          | 3317                           | 3317.00                          | 69                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 69                            
+
+Run: 70
+johnson16-2-4.clq    | 548                            | 548.00                           | 70                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 70                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 70                            
+keller4.clq          | 1153                           | 1153.00                          | 70                            
+keller5.clq          | 3317                           | 3317.00                          | 70                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 9                             
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 70                            
+
+Run: 71
+johnson16-2-4.clq    | 548                            | 548.00                           | 71                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 71                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 71                            
+keller4.clq          | 1153                           | 1153.00                          | 71                            
+keller5.clq          | 3317                           | 3317.00                          | 71                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 10                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 71                            
+
+Run: 72
+johnson16-2-4.clq    | 548                            | 548.00                           | 72                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 72                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 72                            
+keller4.clq          | 1153                           | 1153.00                          | 72                            
+keller5.clq          | 3317                           | 3317.00                          | 72                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 10                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 72                            
+
+Run: 73
+johnson16-2-4.clq    | 548                            | 548.00                           | 73                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 73                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 73                            
+keller4.clq          | 1153                           | 1153.00                          | 73                            
+keller5.clq          | 3317                           | 3317.00                          | 73                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 10                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 73                            
+
+Run: 74
+johnson16-2-4.clq    | 548                            | 548.00                           | 74                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 74                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 74                            
+keller4.clq          | 1153                           | 1153.00                          | 74                            
+keller5.clq          | 3317                           | 3317.00                          | 74                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 74                            
+
+Run: 75
+johnson16-2-4.clq    | 548                            | 548.00                           | 75                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 75                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 75                            
+keller4.clq          | 1153                           | 1153.00                          | 75                            
+keller5.clq          | 3317                           | 3317.00                          | 75                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 75                            
+
+Run: 76
+johnson16-2-4.clq    | 548                            | 548.00                           | 76                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 76                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 76                            
+keller4.clq          | 1153                           | 1153.00                          | 76                            
+keller5.clq          | 3317                           | 3317.00                          | 76                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 76                            
+
+Run: 77
+johnson16-2-4.clq    | 548                            | 548.00                           | 77                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 77                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 77                            
+keller4.clq          | 1153                           | 1153.00                          | 77                            
+keller5.clq          | 3317                           | 3317.00                          | 77                            
+keller6.clq          | 7231                           | 6733.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 77                            
+
+Run: 78
+johnson16-2-4.clq    | 548                            | 548.00                           | 78                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 78                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 78                            
+keller4.clq          | 1153                           | 1153.00                          | 78                            
+keller5.clq          | 3317                           | 3317.00                          | 78                            
+keller6.clq          | 7231                           | 6735.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 78                            
+
+Run: 79
+johnson16-2-4.clq    | 548                            | 548.00                           | 79                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 79                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 79                            
+keller4.clq          | 1153                           | 1153.00                          | 79                            
+keller5.clq          | 3317                           | 3317.00                          | 79                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 79                            
+
+Run: 80
+johnson16-2-4.clq    | 548                            | 548.00                           | 80                            
+johnson32-2-4.clq    | 1992                           | 1945.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 80                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 80                            
+keller4.clq          | 1153                           | 1153.00                          | 80                            
+keller5.clq          | 3317                           | 3317.00                          | 80                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 80                            
+
+Run: 81
+johnson16-2-4.clq    | 548                            | 548.00                           | 81                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 81                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 81                            
+keller4.clq          | 1153                           | 1153.00                          | 81                            
+keller5.clq          | 3317                           | 3317.00                          | 81                            
+keller6.clq          | 7231                           | 6734.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 81                            
+
+Run: 82
+johnson16-2-4.clq    | 548                            | 548.00                           | 82                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 82                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 82                            
+keller4.clq          | 1153                           | 1153.00                          | 82                            
+keller5.clq          | 3317                           | 3317.00                          | 82                            
+keller6.clq          | 7231                           | 6733.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 82                            
+
+Run: 83
+johnson16-2-4.clq    | 548                            | 548.00                           | 83                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 83                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 83                            
+keller4.clq          | 1153                           | 1153.00                          | 83                            
+keller5.clq          | 3317                           | 3317.00                          | 83                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 83                            
+
+Run: 84
+johnson16-2-4.clq    | 548                            | 548.00                           | 84                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 84                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 84                            
+keller4.clq          | 1153                           | 1153.00                          | 84                            
+keller5.clq          | 3317                           | 3317.00                          | 84                            
+keller6.clq          | 7231                           | 6733.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111083.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 84                            
+
+Run: 85
+johnson16-2-4.clq    | 548                            | 548.00                           | 85                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 85                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 85                            
+keller4.clq          | 1153                           | 1153.00                          | 85                            
+keller5.clq          | 3317                           | 3317.00                          | 85                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 85                            
+
+Run: 86
+johnson16-2-4.clq    | 548                            | 548.00                           | 86                            
+johnson32-2-4.clq    | 1992                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 86                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 86                            
+keller4.clq          | 1153                           | 1153.00                          | 86                            
+keller5.clq          | 3317                           | 3317.00                          | 86                            
+keller6.clq          | 7231                           | 6732.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 86                            
+
+Run: 87
+johnson16-2-4.clq    | 548                            | 548.00                           | 87                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 87                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 87                            
+keller4.clq          | 1153                           | 1153.00                          | 87                            
+keller5.clq          | 3317                           | 3317.00                          | 87                            
+keller6.clq          | 7231                           | 6731.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 87                            
+
+Run: 88
+johnson16-2-4.clq    | 548                            | 548.00                           | 88                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 88                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 88                            
+keller4.clq          | 1153                           | 1153.00                          | 88                            
+keller5.clq          | 3317                           | 3317.00                          | 88                            
+keller6.clq          | 7231                           | 6731.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 88                            
+
+Run: 89
+johnson16-2-4.clq    | 548                            | 548.00                           | 89                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 89                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 89                            
+keller4.clq          | 1153                           | 1153.00                          | 89                            
+keller5.clq          | 3317                           | 3317.00                          | 89                            
+keller6.clq          | 7231                           | 6729.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 89                            
+
+Run: 90
+johnson16-2-4.clq    | 548                            | 548.00                           | 90                            
+johnson32-2-4.clq    | 1992                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 90                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 90                            
+keller4.clq          | 1153                           | 1153.00                          | 90                            
+keller5.clq          | 3317                           | 3317.00                          | 90                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 11                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 90                            
+
+Run: 91
+johnson16-2-4.clq    | 548                            | 548.00                           | 91                            
+johnson32-2-4.clq    | 1992                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 91                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 91                            
+keller4.clq          | 1153                           | 1153.00                          | 91                            
+keller5.clq          | 3317                           | 3317.00                          | 91                            
+keller6.clq          | 7231                           | 6728.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 91                            
+
+Run: 92
+johnson16-2-4.clq    | 548                            | 548.00                           | 92                            
+johnson32-2-4.clq    | 1992                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 92                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 92                            
+keller4.clq          | 1153                           | 1153.00                          | 92                            
+keller5.clq          | 3317                           | 3317.00                          | 92                            
+keller6.clq          | 7231                           | 6728.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 92                            
+
+Run: 93
+johnson16-2-4.clq    | 548                            | 548.00                           | 93                            
+johnson32-2-4.clq    | 1992                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 93                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 93                            
+keller4.clq          | 1153                           | 1153.00                          | 93                            
+keller5.clq          | 3317                           | 3317.00                          | 93                            
+keller6.clq          | 7231                           | 6728.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 93                            
+
+Run: 94
+johnson16-2-4.clq    | 548                            | 548.00                           | 94                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 94                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 94                            
+keller4.clq          | 1153                           | 1153.00                          | 94                            
+keller5.clq          | 3317                           | 3317.00                          | 94                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 94                            
+
+Run: 95
+johnson16-2-4.clq    | 548                            | 548.00                           | 95                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 95                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 95                            
+keller4.clq          | 1153                           | 1153.00                          | 95                            
+keller5.clq          | 3317                           | 3317.00                          | 95                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 95                            
+
+Run: 96
+johnson16-2-4.clq    | 548                            | 548.00                           | 96                            
+johnson32-2-4.clq    | 1992                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 96                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 96                            
+keller4.clq          | 1153                           | 1153.00                          | 96                            
+keller5.clq          | 3317                           | 3317.00                          | 96                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34153                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 96                            
+
+Run: 97
+johnson16-2-4.clq    | 548                            | 548.00                           | 97                            
+johnson32-2-4.clq    | 2023                           | 1947.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 97                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 97                            
+keller4.clq          | 1153                           | 1153.00                          | 97                            
+keller5.clq          | 3317                           | 3317.00                          | 97                            
+keller6.clq          | 7231                           | 6726.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34154                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 97                            
+
+Run: 98
+johnson16-2-4.clq    | 548                            | 548.00                           | 98                            
+johnson32-2-4.clq    | 2023                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 98                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 98                            
+keller4.clq          | 1153                           | 1153.00                          | 98                            
+keller5.clq          | 3317                           | 3317.00                          | 98                            
+keller6.clq          | 7231                           | 6727.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34154                          | 34143.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111082.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 98                            
+
+Run: 99
+johnson16-2-4.clq    | 548                            | 548.00                           | 99                            
+johnson32-2-4.clq    | 2023                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 99                            
+johnson8-4-4.clq     | 511                            | 511.00                           | 99                            
+keller4.clq          | 1153                           | 1153.00                          | 99                            
+keller5.clq          | 3317                           | 3317.00                          | 99                            
+keller6.clq          | 7231                           | 6726.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34154                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111081.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 99                            
+
+Run: 100
+johnson16-2-4.clq    | 548                            | 548.00                           | 100                           
+johnson32-2-4.clq    | 2023                           | 1946.00                          | 1                             
+johnson8-2-4.clq     | 66                             | 66.00                            | 100                           
+johnson8-4-4.clq     | 511                            | 511.00                           | 100                           
+keller4.clq          | 1153                           | 1153.00                          | 100                           
+keller5.clq          | 3317                           | 3317.00                          | 100                           
+keller6.clq          | 7231                           | 6726.00                          | 1                             
+MANN_a27.clq         | 12253                          | 12251.00                         | 12                            
+MANN_a45.clq         | 34154                          | 34144.00                         | 1                             
+MANN_a81.clq         | 111112                         | 111081.00                        | 3                             
+MANN_a9.clq          | 372                            | 372.00                           | 100                           
+
